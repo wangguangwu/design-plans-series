@@ -13,6 +13,9 @@
         <module>chain-of-responsibility-design-pattern-00</module>
         <module>chain-of-responsibility-design-pattern-01</module>
         <module>chain-of-responsibility-design-pattern-02</module>
+        <module>command-design-plan-01</module>
+        <module>command-design-plan-00</module>
+        <module>command-design-plan-02</module>
     </modules>
 
     <properties>
